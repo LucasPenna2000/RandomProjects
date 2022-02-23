@@ -9,7 +9,7 @@ while live > 0:
         break
         
     print(f'You have ({live}) lives')
-    x = int(input('choose a number from 1 to 5: ')) 
+    player = int(input('choose a number from 1 to 5: ')) 
     print('loading...')
     print('-='*15)
     time.sleep(2)
@@ -18,10 +18,10 @@ while live > 0:
     print('The computer chose: ',escolha)
     print('-='*15)
 
-    if x == escolha:
+    if player == escolha:
         print(f'You win! with {live} lives \nGame Over!')
         break
-    elif x > 5:
+    elif player > 5:
         print('You chose a number greater than five!!!!\nTry Again.') 
         live = live - 1       
     else:
