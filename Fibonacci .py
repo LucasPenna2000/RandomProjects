@@ -14,6 +14,3 @@ while i < termos - 1:
          print (f)
          pt = st
          st = f
-    	
-    
-    
