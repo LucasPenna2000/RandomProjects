@@ -1,4 +1,4 @@
 # Projects:
 
-Some projects i do.
+Alguns projetos que fiz com auxílio de cursos e faculdade.
 
