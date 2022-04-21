@@ -1,4 +1,4 @@
 # Projects:
 
-Alguns projetos que fiz com auxílio de cursos e faculdade.
+Alguns projetos que fiz com o conhecimento que adquiri em cursos e faculdade.
 
